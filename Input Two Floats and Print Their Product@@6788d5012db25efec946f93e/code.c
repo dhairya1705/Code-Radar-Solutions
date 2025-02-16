@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(){
     float a,b;
-    scanf("%lf %lf",&a,&b)
+    scanf("%f %f",&a,&b)
     float result=a*b;
-    print("%lf",&result);
+    print("%f",&result);
     return 0;
 }

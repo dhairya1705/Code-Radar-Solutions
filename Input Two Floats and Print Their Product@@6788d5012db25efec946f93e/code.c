@@ -3,12 +3,7 @@
 int main()
 {
     float num1, num2, product;
-    
-    // Taking input from the user
-    printf("Enter the first floating number: ");
     scanf("%f", &num1);
-    
-    printf("Enter the second floating number: ");
     scanf("%f", &num2);
     
     // Calculating the product
